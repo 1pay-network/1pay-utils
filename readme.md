@@ -18,6 +18,16 @@
   1Pay Utils is free and open source. Powered by <a href="https://1pay.network" target="_blank">1PAY.network</a>
 
   <br>
+  
+  <h2 align="center">Screenshots</h2>
+  <div>
+    <img src="https://i.postimg.cc/mgxmD81n/s1.png" width="200">
+    <img src="https://i.postimg.cc/TY5kfZ1m/s2.png" width="200">
+    <img src="https://i.postimg.cc/52wnFLw2/s3.png" width="200">
+    <img src="https://i.postimg.cc/CMQPyFhS/s4.png" width="200">
+  </div>
+
+
   <hr>
   <p align="center">
     <a href="https://1pay.network" target="_blank">
