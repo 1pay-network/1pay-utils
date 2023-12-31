@@ -20,7 +20,15 @@
         "js/btn_viewcode.js"
       ],
       "matches": [
-        "https://*/address/*",
+        "https://*/address/*"
+      ]
+    },
+    {
+      "js": [
+        "js/btn_dexscreener.js",
+        "js/btn_viewcode.js"
+      ],
+      "matches": [
         "https://*/token/*"
       ]
     }

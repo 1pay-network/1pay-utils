@@ -1,24 +1,20 @@
 (function () {
   let address = location.href.replace(/.+\//, '').replace(/\#.+/, '')
-  // ENS domain
-  if (address.indexOf('.eth') != -1) {
-    const mainAddress = document.getElementById('mainaddress')
-    address = mainAddress ? mainAddress.innerHTML : address
-  }
+  address = address.replace(/\?.+/, '')
   const h1Element = document.querySelector('h1')
-  if (h1Element && h1Element.innerHTML.indexOf('Address') != -1) {
+  if (h1Element && h1Element.innerHTML.indexOf('Token') != -1) {
     h1Element.innerHTML = 
       `<a
-        href="https://debank.com/profile/${address}"
+        href="https://dexscreener.com/search?q=${address}"
         target="_blank"
         style="
           font-size: 16px;
           color: #fff;
-          background: #fe815f;
+          background: #000;
           padding: 10px 20px;
           border-radius: 5px;
           margin-right: 5px;
-        ">DeBank</a>`
+        ">DEX Screener</a>`
       + h1Element.innerHTML
   }
 })()
