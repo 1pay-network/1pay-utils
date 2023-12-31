@@ -13,6 +13,7 @@
     "default_popup": "utils.html",
     "default_icon": "icons/icon.png"
   },
+  "permissions": [],
   "content_scripts": [
     {
       "js": [
