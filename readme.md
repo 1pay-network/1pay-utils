@@ -1,7 +1,7 @@
 <div>
   <br>
   <h2 align="center">1Pay Utils</h2>
-  <p align="center">The collection of tools for Web3 users. Powered by <a href="https://1pay.network" target="_blank">1PAY.network</a></p>
+  <p align="center">A Chrome Extension with lots of tools for Web3 users. Powered by <a href="https://1pay.network" target="_blank">1PAY.network</a></p>
   <br>
   <hr>
   <p align="center">
