@@ -7,7 +7,7 @@
 
   - Button DeBank.
   - Button DEX Screener.
-  - Button view contract source code.
+  - Button view contract source code. This feature powered by <a href="https://github.com/dethcrypto/dethcode" target="_blank">DethCode</a>
 
   <h3>Supported sites:</h3>
   
