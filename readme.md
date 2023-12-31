@@ -21,10 +21,10 @@
   
   <h2 align="center">Screenshots</h2>
   <div>
-    <img src="https://i.postimg.cc/mgxmD81n/s1.png" width="200">
-    <img src="https://i.postimg.cc/TY5kfZ1m/s2.png" width="200">
-    <img src="https://i.postimg.cc/52wnFLw2/s3.png" width="200">
-    <img src="https://i.postimg.cc/CMQPyFhS/s4.png" width="200">
+    <img src="https://i.postimg.cc/mgxmD81n/s1.png">
+    <img src="https://i.postimg.cc/TY5kfZ1m/s2.png">
+    <img src="https://i.postimg.cc/52wnFLw2/s3.png">
+    <img src="https://i.postimg.cc/CMQPyFhS/s4.png">
   </div>
 
 
