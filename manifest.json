@@ -3,14 +3,26 @@
   "description": "1Pay Utils is a collection of tools for Web3 users",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
   "action": {
     "default_popup": "utils.html",
-    "default_icon": "icon.png"
+    "default_icon": "icons/icon.png"
   },
   "content_scripts": [
     {
-      "js": ["js/btn_debank.js", "js/btn_viewcode.js"],
-      "matches": ["https://*/address/*"]
+      "js": [
+        "js/btn_debank.js",
+        "js/btn_viewcode.js"
+      ],
+      "matches": [
+        "https://*/address/*",
+        "https://*/token/*"
+      ]
     }
   ]
 }

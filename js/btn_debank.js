@@ -1,7 +1,7 @@
 (function () {
   const address = location.href.replace(/.+\//, '').replace(/\#.+/, '')
   const h1Element = document.querySelector('h1')
-  if (h1Element.innerHTML.indexOf('Address') != -1) {
+  if (h1Element && h1Element.innerHTML.indexOf('Address') != -1) {
     h1Element.innerHTML = 
       `<a
         href="https://debank.com/profile/${address}"
