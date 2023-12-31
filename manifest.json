@@ -1,0 +1,16 @@
+{
+  "name": "1Pay Utils",
+  "description": "1Pay Utils is a collection of tools for Web3 users",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "utils.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["js/btn_debank.js", "js/btn_viewcode.js"],
+      "matches": ["https://*/address/*"]
+    }
+  ]
+}
