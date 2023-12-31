@@ -13,9 +13,9 @@
   
   Etherscan.io and other explorers are built by the same team behind Etherscan.
 
-  1Pay Utils is free and open source!
+  <br>
 
-  Powered by <a href="https://1pay.network" target="_blank">1PAY.network</a>
+  1Pay Utils is free and open source. Powered by <a href="https://1pay.network" target="_blank">1PAY.network</a>
 
   <br>
   <hr>
