@@ -20,12 +20,10 @@
   <br>
   
   <h2 align="center">Screenshots</h2>
-  <div>
-    <img src="https://i.postimg.cc/mgxmD81n/s1.png" style="border: 2px solid grey; margin: 5px 0;">
-    <img src="https://i.postimg.cc/TY5kfZ1m/s2.png" style="border: 2px solid grey; margin: 5px 0;">
-    <img src="https://i.postimg.cc/52wnFLw2/s3.png" style="border: 2px solid grey; margin: 5px 0;">
-    <img src="https://i.postimg.cc/CMQPyFhS/s4.png" style="border: 2px solid grey; margin: 5px 0;">
-  </div>
+  <p><img src="https://i.postimg.cc/mgxmD81n/s1.png"></p>
+  <p><img src="https://i.postimg.cc/TY5kfZ1m/s2.png"></p>
+  <p><img src="https://i.postimg.cc/52wnFLw2/s3.png"></p>
+  <p><img src="https://i.postimg.cc/CMQPyFhS/s4.png"></p>
 
 
   <hr>
