@@ -1,17 +1,17 @@
 <div>
   <br>
   <h2 align="center">1Pay Utils</h2>
-  <p>A Chrome Extension with lots of tools for Web3 users. When you access blockchain explorer pages like Etherscan, Arbiscan, BSCScan,... function buttons will appear to help you improve performance.</p>
+  <p>Your go-to Chrome Extension packed with essential tools designed for Web3 users. Enhancing your experience on blockchain explorer platforms such as Etherscan, Arbiscan, BSCScan,etc..., our extension intuitively surfaces function buttons to boost your performance and streamline your workflow.</p>
   
   <h3>Features:</h3>
 
-  - Button DeBank.
-  - Button DEX Screener.
-  - Button view contract source code. This feature powered by <a href="https://github.com/dethcrypto/dethcode" target="_blank">DethCode</a>
+  - DeBank Button.
+  - DEX Screener Button.
+  - View contract source code Button . This feature is powered by <a href="https://github.com/dethcrypto/dethcode" target="_blank">DethCode</a>
 
   <h3>Supported sites:</h3>
   
-  Etherscan.io and other explorers are built by the same team behind Etherscan.
+  Etherscan.io and other explorers site which are built by the same team behind Etherscan.
 
   <br>
 
