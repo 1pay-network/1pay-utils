@@ -1,7 +1,7 @@
 {
   "name": "1Pay Utils",
   "description": "1Pay Utils is a collection of tools for Web3 users",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "icons": {
     "16": "icons/icon-16.png",
@@ -21,7 +21,15 @@
         "js/btn_viewcode.js"
       ],
       "matches": [
-        "https://*/address/*"
+        "https://etherscan.io/address/*",
+        "https://bscscan.com/address/*",
+        "https://arbiscan.io/address/*",
+        "https://optimistic.etherscan.io/address/*",
+        "https://polygonscan.com/address/*",
+        "https://lineascan.build/address/*",
+        "https://scrollscan.com/address/*",
+        "https://ftmscan.com/address/*",
+        "https://basescan.org/address/*"
       ]
     },
     {
@@ -30,7 +38,15 @@
         "js/btn_viewcode.js"
       ],
       "matches": [
-        "https://*/token/*"
+        "https://etherscan.io/token/*",
+        "https://bscscan.com/token/*",
+        "https://arbiscan.io/token/*",
+        "https://optimistic.etherscan.io/token/*",
+        "https://polygonscan.com/token/*",
+        "https://lineascan.build/token/*",
+        "https://scrollscan.com/token/*",
+        "https://ftmscan.com/token/*",
+        "https://basescan.org/token/*"
       ]
     }
   ]
