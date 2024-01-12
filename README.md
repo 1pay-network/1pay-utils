@@ -1,7 +1,7 @@
 <div>
   <br>
   <h2 align="center">1Pay Utils</h2>
-  <p>Your go-to Chrome Extension packed with essential tools designed for Web3 users. Enhancing your experience on blockchain explorer platforms such as Etherscan, Arbiscan, BSCScan,etc..., our extension intuitively surfaces function buttons to boost your performance and streamline your workflow.</p>
+  <p>Your go-to <a href="https://chromewebstore.google.com/detail/1pay-utils/bifljifkpkadfnbekhnadgbhmljpglga">Chrome Extension</a> packed with essential tools designed for Web3 users. Enhancing your experience on blockchain explorer platforms such as Etherscan, Arbiscan, BSCScan,etc..., our extension intuitively surfaces function buttons to boost your performance and streamline your workflow.</p>
   
   <h3>Features:</h3>
 
